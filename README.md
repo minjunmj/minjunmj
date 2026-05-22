@@ -2,11 +2,10 @@
 <h1 align="left">Hi 👋, I'm Minjun Park</h1>
 <h3 align="left">Computer Software student at Hanyang University, 
   working toward becoming an NLP developer.</h3>
-<br />
-- 🌱 I’m currently learning **: ML, NLP, RL..**
+
+- 🌱 I’m currently learning : ML, NLP, RL..
 
 - 📫 How to reach me **: dhfkzlfj@naver.com**
-<br />
 <p align="left">
 </p>
 
@@ -16,8 +15,6 @@
 <br />
 <h3 align="left">📈 my github stats</h3>
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minjunmj&show_icons=true&locale=en" alt="minjunmj" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minjunmj&" alt="minjunmj" /></p>
 
 
